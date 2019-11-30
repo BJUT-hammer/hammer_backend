@@ -7,7 +7,7 @@ setup(
     description='Hammer Api',
     packages=find_packages(),
     install_requires=[
-        'Django==1.11',
+        'Django==1.11.23',
         'djangorestframework',
         'requests',
         'pytest',
